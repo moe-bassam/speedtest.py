@@ -1,7 +1,7 @@
-#Link >>> https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py#
+#Link >>> https://github.com/moe-bassam/speedtest.py/blob/main/speedtest.py#
 #
 #commands: 
-#wget -o speedtest-cli https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
+#wget https://github.com/moe-bassam/speedtest.py/blob/main/speedtest.py
 #chmod +x speedtest-cli
 #./speedtest-cli
 #
